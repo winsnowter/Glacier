@@ -1,0 +1,17 @@
+[
+  {
+    "task_id": "sgl_south_asia_east_2000_chunk_000",
+    "description": "annual_area_15_south_asia_east_2000_chunk_0_483_sgl",
+    "chunk_id": 0,
+    "start_index": 0,
+    "end_index_exclusive": 484,
+    "months": "7,8,9",
+    "source_years": "",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "VDO6W34MVZUHMBFGYQ4JZ4QE"
+  }
+]

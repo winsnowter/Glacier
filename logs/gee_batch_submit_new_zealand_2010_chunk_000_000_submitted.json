@@ -1,0 +1,17 @@
+[
+  {
+    "task_id": "sgl_new_zealand_2010_chunk_000",
+    "description": "annual_area_18_new_zealand_2010_chunk_0_34_sgl",
+    "chunk_id": 0,
+    "start_index": 0,
+    "end_index_exclusive": 35,
+    "months": "1,2,3",
+    "source_years": "",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "XQZOFCYEBQ7AQVL7O54ZS7N3"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "task_id": "low_latitudes_2000_chunk_000",
+    "description": "annual_area_16_low_latitudes_2000_chunk_0_499",
+    "chunk_id": 0,
+    "start_index": 0,
+    "end_index_exclusive": 500,
+    "months": "7,8,9",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "5DC3ZLKVB3QWSOVHZZ3KDZGB"
+  },
+  {
+    "task_id": "low_latitudes_2000_chunk_001",
+    "description": "annual_area_16_low_latitudes_2000_chunk_500_999",
+    "chunk_id": 1,
+    "start_index": 500,
+    "end_index_exclusive": 1000,
+    "months": "7,8,9",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "WWWA6CSYWSWM47K7CT5BN3LI"
+  },
+  {
+    "task_id": "low_latitudes_2000_chunk_002",
+    "description": "annual_area_16_low_latitudes_2000_chunk_1000_1499",
+    "chunk_id": 2,
+    "start_index": 1000,
+    "end_index_exclusive": 1500,
+    "months": "7,8,9",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "JPTN6OVDRWECB5WHFQAOKEGC"
+  },
+  {
+    "task_id": "low_latitudes_2000_chunk_003",
+    "description": "annual_area_16_low_latitudes_2000_chunk_1500_1999",
+    "chunk_id": 3,
+    "start_index": 1500,
+    "end_index_exclusive": 2000,
+    "months": "7,8,9",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "NBNRADUAYP3OYMGLBN33KHSB"
+  },
+  {
+    "task_id": "low_latitudes_2000_chunk_004",
+    "description": "annual_area_16_low_latitudes_2000_chunk_2000_2499",
+    "chunk_id": 4,
+    "start_index": 2000,
+    "end_index_exclusive": 2500,
+    "months": "7,8,9",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "VBYFXORNJOOXJ5P6AYJNKFVX"
+  }
+]

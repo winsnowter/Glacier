@@ -1,0 +1,30 @@
+[
+  {
+    "task_id": "russian_arctic_2016_chunk_000",
+    "description": "annual_area_09_russian_arctic_2016_chunk_0_499",
+    "chunk_id": 0,
+    "start_index": 0,
+    "end_index_exclusive": 500,
+    "months": "7,8,9",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "2W2FJZ4FIGN7PZE4Y6FEJ7NW"
+  },
+  {
+    "task_id": "russian_arctic_2016_chunk_001",
+    "description": "annual_area_09_russian_arctic_2016_chunk_500_616",
+    "chunk_id": 1,
+    "start_index": 500,
+    "end_index_exclusive": 617,
+    "months": "7,8,9",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "BEVKV2N3G2NXPHLA63MSHWBE"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "task_id": "alaska_2024_chunk_002_recheck",
+    "description": "annual_area_01_alaska_2024_chunk_1000_1499_4month_recheck_m6789",
+    "chunk_id": 2,
+    "start_index": 1000,
+    "end_index_exclusive": 1500,
+    "months": "6,7,8,9",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "KGPWX2CZMWE2OYHWSYIDTXCL"
+  },
+  {
+    "task_id": "alaska_2024_chunk_003_recheck",
+    "description": "annual_area_01_alaska_2024_chunk_1500_1999_4month_recheck_m6789",
+    "chunk_id": 3,
+    "start_index": 1500,
+    "end_index_exclusive": 2000,
+    "months": "6,7,8,9",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "WFZKFYCSZYIY5CNC4OWZP4UK"
+  },
+  {
+    "task_id": "alaska_2024_chunk_004_recheck",
+    "description": "annual_area_01_alaska_2024_chunk_2000_2499_4month_recheck_m6789",
+    "chunk_id": 4,
+    "start_index": 2000,
+    "end_index_exclusive": 2500,
+    "months": "6,7,8,9",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "TNTUHDZOW2KPKOS3X6YFYRG5"
+  },
+  {
+    "task_id": "alaska_2024_chunk_008_recheck",
+    "description": "annual_area_01_alaska_2024_chunk_4000_4499_4month_recheck_m6789",
+    "chunk_id": 8,
+    "start_index": 4000,
+    "end_index_exclusive": 4500,
+    "months": "6,7,8,9",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "X7SL2KO33EIZDDPHZK5SOF72"
+  },
+  {
+    "task_id": "alaska_2024_chunk_009_recheck",
+    "description": "annual_area_01_alaska_2024_chunk_4500_4999_4month_recheck_m6789",
+    "chunk_id": 9,
+    "start_index": 4500,
+    "end_index_exclusive": 5000,
+    "months": "6,7,8,9",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "FT7BZFLQCR3GP6ZOK5MGDAQL"
+  }
+]

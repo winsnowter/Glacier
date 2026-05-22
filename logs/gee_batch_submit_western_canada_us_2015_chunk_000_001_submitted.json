@@ -1,0 +1,32 @@
+[
+  {
+    "task_id": "sgl_western_canada_us_2015_chunk_000",
+    "description": "annual_area_02_western_canada_us_2015_chunk_0_499_sgl",
+    "chunk_id": 0,
+    "start_index": 0,
+    "end_index_exclusive": 500,
+    "months": "7,8,9",
+    "source_years": "",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "BKI4IWXH6V2XRVPJJYXYT4XB"
+  },
+  {
+    "task_id": "sgl_western_canada_us_2015_chunk_001",
+    "description": "annual_area_02_western_canada_us_2015_chunk_500_503_sgl",
+    "chunk_id": 1,
+    "start_index": 500,
+    "end_index_exclusive": 504,
+    "months": "7,8,9",
+    "source_years": "",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "L3UCXXNSCVMS32G5TRAJ7B45"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "task_id": "sgl_central_asia_2004_chunk_000",
+    "description": "annual_area_13_central_asia_2004_chunk_0_499_sgl",
+    "chunk_id": 0,
+    "start_index": 0,
+    "end_index_exclusive": 500,
+    "months": "7,8,9",
+    "source_years": "",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "IT6HVAGXDOGNYPJ5QGLEU77Q"
+  },
+  {
+    "task_id": "sgl_central_asia_2004_chunk_001",
+    "description": "annual_area_13_central_asia_2004_chunk_500_582_sgl",
+    "chunk_id": 1,
+    "start_index": 500,
+    "end_index_exclusive": 583,
+    "months": "7,8,9",
+    "source_years": "",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "ZCONVL3P2EGSAUQYUVBGYMDD"
+  }
+]

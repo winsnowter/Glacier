@@ -1,0 +1,62 @@
+[
+  {
+    "task_id": "north_asia_2024_chunk_001_recheck",
+    "description": "annual_area_10_north_asia_2024_chunk_500_999_4month",
+    "chunk_id": 1,
+    "start_index": 500,
+    "end_index_exclusive": 1000,
+    "months": "6,7,8,9",
+    "source_years": "",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "FQLWFD6NSPAOPDBENYUUWXRR"
+  },
+  {
+    "task_id": "north_asia_2024_chunk_002_recheck",
+    "description": "annual_area_10_north_asia_2024_chunk_1000_1499_4month",
+    "chunk_id": 2,
+    "start_index": 1000,
+    "end_index_exclusive": 1500,
+    "months": "6,7,8,9",
+    "source_years": "",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "Q6ZCWS4Q3L7PF73GX62DO2LV"
+  },
+  {
+    "task_id": "north_asia_2024_chunk_003_recheck",
+    "description": "annual_area_10_north_asia_2024_chunk_1500_1999_4month",
+    "chunk_id": 3,
+    "start_index": 1500,
+    "end_index_exclusive": 2000,
+    "months": "6,7,8,9",
+    "source_years": "",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "J2IDIFGFO7X67PLJZ6F24RIF"
+  },
+  {
+    "task_id": "north_asia_2024_chunk_004_recheck",
+    "description": "annual_area_10_north_asia_2024_chunk_2000_2147_4month",
+    "chunk_id": 4,
+    "start_index": 2000,
+    "end_index_exclusive": 2148,
+    "months": "6,7,8,9",
+    "source_years": "",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "FBGBLH2G4RMAW2A2LKN55WN6"
+  }
+]

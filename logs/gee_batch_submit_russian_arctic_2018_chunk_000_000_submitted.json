@@ -1,0 +1,17 @@
+[
+  {
+    "task_id": "sgl_russian_arctic_2018_chunk_000",
+    "description": "annual_area_09_russian_arctic_2018_chunk_0_25_sgl",
+    "chunk_id": 0,
+    "start_index": 0,
+    "end_index_exclusive": 26,
+    "months": "7,8,9",
+    "source_years": "",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "PKFEAE4C7VPIKLRV4WLB3HTN"
+  }
+]

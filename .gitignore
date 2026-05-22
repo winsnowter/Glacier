@@ -1,9 +1,5 @@
-# Large project data and generated artifacts
+# Large project data
 data/
-logs/
-checkpoints/
-models/
-figures/
 
 # Notebook checkpoints and caches
 .ipynb_checkpoints/
@@ -20,4 +16,3 @@ venv/
 # OS/editor noise
 .DS_Store
 Thumbs.db
-

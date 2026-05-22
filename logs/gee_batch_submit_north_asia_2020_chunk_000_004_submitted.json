@@ -1,0 +1,72 @@
+[
+  {
+    "task_id": "north_asia_2020_chunk_000",
+    "description": "annual_area_10_north_asia_2020_chunk_0_499",
+    "chunk_id": 0,
+    "start_index": 0,
+    "end_index_exclusive": 500,
+    "months": "7,8,9",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "QUONR7UKOCHEP6PWHWJXCHK4"
+  },
+  {
+    "task_id": "north_asia_2020_chunk_001",
+    "description": "annual_area_10_north_asia_2020_chunk_500_999",
+    "chunk_id": 1,
+    "start_index": 500,
+    "end_index_exclusive": 1000,
+    "months": "7,8,9",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "7MAVQH6QLM2526S47FEA3DUL"
+  },
+  {
+    "task_id": "north_asia_2020_chunk_002",
+    "description": "annual_area_10_north_asia_2020_chunk_1000_1499",
+    "chunk_id": 2,
+    "start_index": 1000,
+    "end_index_exclusive": 1500,
+    "months": "7,8,9",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "6HAH53COEXBI4HUBXQXWMBBY"
+  },
+  {
+    "task_id": "north_asia_2020_chunk_003",
+    "description": "annual_area_10_north_asia_2020_chunk_1500_1999",
+    "chunk_id": 3,
+    "start_index": 1500,
+    "end_index_exclusive": 2000,
+    "months": "7,8,9",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "VZLFTIWPAIUWISI45X3L7RTO"
+  },
+  {
+    "task_id": "north_asia_2020_chunk_004",
+    "description": "annual_area_10_north_asia_2020_chunk_2000_2147",
+    "chunk_id": 4,
+    "start_index": 2000,
+    "end_index_exclusive": 2148,
+    "months": "7,8,9",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "KUBGSLM5B6TR6OTVVNZE6GUV"
+  }
+]

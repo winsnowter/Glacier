@@ -1,0 +1,30 @@
+[
+  {
+    "task_id": "arctic_canada_north_2021_chunk_000",
+    "description": "annual_area_03_arctic_canada_north_2021_chunk_0_499",
+    "chunk_id": 0,
+    "start_index": 0,
+    "end_index_exclusive": 500,
+    "months": "7,8,9",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "QPBIHBY2TUIDRHM5U6MZAH2T"
+  },
+  {
+    "task_id": "arctic_canada_north_2021_chunk_001",
+    "description": "annual_area_03_arctic_canada_north_2021_chunk_500_918",
+    "chunk_id": 1,
+    "start_index": 500,
+    "end_index_exclusive": 919,
+    "months": "7,8,9",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "7USQGLTQ44RRODMK3HYQ2OFY"
+  }
+]

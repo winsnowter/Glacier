@@ -1,0 +1,47 @@
+[
+  {
+    "task_id": "sgl_greenland_periphery_2021_chunk_000",
+    "description": "annual_area_05_greenland_periphery_2021_chunk_0_199_sgl",
+    "chunk_id": 0,
+    "start_index": 0,
+    "end_index_exclusive": 200,
+    "months": "7,8,9",
+    "source_years": "",
+    "chunk_size": 200,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "IT43YJDOU66DYUF5QTT7XIAU"
+  },
+  {
+    "task_id": "sgl_greenland_periphery_2021_chunk_001",
+    "description": "annual_area_05_greenland_periphery_2021_chunk_200_399_sgl",
+    "chunk_id": 1,
+    "start_index": 200,
+    "end_index_exclusive": 400,
+    "months": "7,8,9",
+    "source_years": "",
+    "chunk_size": 200,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "DPWY6VNZ7DG5QYPN7VJZGD2U"
+  },
+  {
+    "task_id": "sgl_greenland_periphery_2021_chunk_002",
+    "description": "annual_area_05_greenland_periphery_2021_chunk_400_468_sgl",
+    "chunk_id": 2,
+    "start_index": 400,
+    "end_index_exclusive": 469,
+    "months": "7,8,9",
+    "source_years": "",
+    "chunk_size": 200,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "AOF5VIVHYYHV2SF4SZIOJ6YP"
+  }
+]

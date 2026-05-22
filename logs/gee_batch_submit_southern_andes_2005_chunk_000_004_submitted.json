@@ -1,0 +1,72 @@
+[
+  {
+    "task_id": "southern_andes_2005_chunk_000",
+    "description": "annual_area_17_southern_andes_2005_chunk_0_499_m123",
+    "chunk_id": 0,
+    "start_index": 0,
+    "end_index_exclusive": 500,
+    "months": "1,2,3",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "Z2U6I6EPXO745HB5BVBNR77E"
+  },
+  {
+    "task_id": "southern_andes_2005_chunk_001",
+    "description": "annual_area_17_southern_andes_2005_chunk_500_999_m123",
+    "chunk_id": 1,
+    "start_index": 500,
+    "end_index_exclusive": 1000,
+    "months": "1,2,3",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "FOB76KGG2AAKT3X4QLJGATC2"
+  },
+  {
+    "task_id": "southern_andes_2005_chunk_002",
+    "description": "annual_area_17_southern_andes_2005_chunk_1000_1499_m123",
+    "chunk_id": 2,
+    "start_index": 1000,
+    "end_index_exclusive": 1500,
+    "months": "1,2,3",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "WRUN7DNWB53563J63MEKLA4B"
+  },
+  {
+    "task_id": "southern_andes_2005_chunk_003",
+    "description": "annual_area_17_southern_andes_2005_chunk_1500_1999_m123",
+    "chunk_id": 3,
+    "start_index": 1500,
+    "end_index_exclusive": 2000,
+    "months": "1,2,3",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "44BS47JK2H3ISTWRBRQCOK6H"
+  },
+  {
+    "task_id": "southern_andes_2005_chunk_004",
+    "description": "annual_area_17_southern_andes_2005_chunk_2000_2499_m123",
+    "chunk_id": 4,
+    "start_index": 2000,
+    "end_index_exclusive": 2500,
+    "months": "1,2,3",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "ZC5WY4UDUWUP72MCE6S3WOOO"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "task_id": "new_zealand_2024_chunk_000",
+    "description": "annual_area_18_new_zealand_2024_chunk_0_159",
+    "chunk_id": 0,
+    "start_index": 0,
+    "end_index_exclusive": 160,
+    "months": "1,2,3",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "prepared"
+  }
+]

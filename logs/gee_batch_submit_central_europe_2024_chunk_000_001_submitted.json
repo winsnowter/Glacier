@@ -1,0 +1,30 @@
+[
+  {
+    "task_id": "central_europe_2024_chunk_000_recheck",
+    "description": "annual_area_11_central_europe_2024_chunk_0_499_4month",
+    "chunk_id": 0,
+    "start_index": 0,
+    "end_index_exclusive": 500,
+    "months": "6,7,8,9",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "JDQUX7PJ3K3V374E24DFONG4"
+  },
+  {
+    "task_id": "central_europe_2024_chunk_001_recheck",
+    "description": "annual_area_11_central_europe_2024_chunk_500_797_4month",
+    "chunk_id": 1,
+    "start_index": 500,
+    "end_index_exclusive": 798,
+    "months": "6,7,8,9",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "IPILN3P2QDZGRHC7GQPSGMUF"
+  }
+]

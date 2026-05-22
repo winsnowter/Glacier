@@ -1,0 +1,17 @@
+[
+  {
+    "task_id": "sgl_southern_andes_2020_chunk_000",
+    "description": "annual_area_17_southern_andes_2020_chunk_0_379_sgl",
+    "chunk_id": 0,
+    "start_index": 0,
+    "end_index_exclusive": 380,
+    "months": "1,2,3",
+    "source_years": "",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "5PJ4R7OS272BOPV4UYHDTEOO"
+  }
+]

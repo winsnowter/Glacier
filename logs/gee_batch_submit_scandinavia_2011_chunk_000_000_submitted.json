@@ -1,0 +1,17 @@
+[
+  {
+    "task_id": "sgl_scandinavia_2011_chunk_000",
+    "description": "annual_area_08_scandinavia_2011_chunk_0_12_sgl",
+    "chunk_id": 0,
+    "start_index": 0,
+    "end_index_exclusive": 13,
+    "months": "7,8,9",
+    "source_years": "",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "LOHKYI3FQC2YP3J3NSFD7GU3"
+  }
+]

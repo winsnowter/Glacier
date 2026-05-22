@@ -1,0 +1,17 @@
+[
+  {
+    "task_id": "greenland_periphery_2022_chunk_197",
+    "description": "annual_area_05_greenland_periphery_2022_chunk_39400_39599",
+    "chunk_id": 197,
+    "start_index": 39400,
+    "end_index_exclusive": 39600,
+    "months": "7,8,9",
+    "source_years": "",
+    "chunk_size": 200,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "M2UBTJW5HOXAGOWZ6ODQ3RDF"
+  }
+]

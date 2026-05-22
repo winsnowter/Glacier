@@ -1,0 +1,72 @@
+[
+  {
+    "task_id": "greenland_periphery_2015_chunk_001_recheck",
+    "description": "annual_area_05_greenland_periphery_2015_chunk_500_999_4month",
+    "chunk_id": 1,
+    "start_index": 500,
+    "end_index_exclusive": 1000,
+    "months": "6,7,8,9",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "IEPAZJPBZRT3XX7LQFII6CTO"
+  },
+  {
+    "task_id": "greenland_periphery_2015_chunk_002_recheck",
+    "description": "annual_area_05_greenland_periphery_2015_chunk_1000_1499_4month",
+    "chunk_id": 2,
+    "start_index": 1000,
+    "end_index_exclusive": 1500,
+    "months": "6,7,8,9",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "2APGUHO2NNQRMWMQDSDDQOQ4"
+  },
+  {
+    "task_id": "greenland_periphery_2015_chunk_003_recheck",
+    "description": "annual_area_05_greenland_periphery_2015_chunk_1500_1999_4month",
+    "chunk_id": 3,
+    "start_index": 1500,
+    "end_index_exclusive": 2000,
+    "months": "6,7,8,9",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "5KTTQWXWUESWNJQUD4YHM2B2"
+  },
+  {
+    "task_id": "greenland_periphery_2015_chunk_028_recheck",
+    "description": "annual_area_05_greenland_periphery_2015_chunk_14000_14499_4month",
+    "chunk_id": 28,
+    "start_index": 14000,
+    "end_index_exclusive": 14500,
+    "months": "6,7,8,9",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "R2WWGQYOABLZNQ6NFFJY64T5"
+  },
+  {
+    "task_id": "greenland_periphery_2015_chunk_044_recheck",
+    "description": "annual_area_05_greenland_periphery_2015_chunk_22000_22499_4month",
+    "chunk_id": 44,
+    "start_index": 22000,
+    "end_index_exclusive": 22500,
+    "months": "6,7,8,9",
+    "chunk_size": 500,
+    "ndwi_threshold": 0.0,
+    "mndwi_threshold": 0.0,
+    "water_rule": "and",
+    "status": "submitted",
+    "ee_task_id": "WFPXEQDLUQLIZM5TZR2SIQ2F"
+  }
+]
